@@ -1,0 +1,1 @@
+{"version":3,"file":"WhatsApp.d.ts","sourceRoot":"","sources":["../src/WhatsApp.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,eAAe,CAAA;AAC3C,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAA;AAEnC,qBAAa,QAAS,YAAW,WAAW;IACxC,MAAM,CAAC,QAAQ,EAAC,MAAM,EAAE,OAAO,EAAC,OAAO,GAAE,IAAI,CAE5C;CACJ"}
